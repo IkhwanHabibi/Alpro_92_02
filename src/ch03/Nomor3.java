@@ -14,7 +14,11 @@ public class Nomor3 {
 		System.out.print("Inputkan bilangan : ");
 		   int bil = Scan.nextInt();
 
+<<<<<<< HEAD
 		for (int i = 3; i <= bil; i++) {
+=======
+		for (int i = 3; 1 <= bil; i++) {
+>>>>>>> 2da6549531d734bb5588399aa5c375e7507d4ed5
 			if (bil %i == 0) {
 				int pembagi = i;
 				System.out.println("Pembagi terkecil dari " +bil+ " adalah " +pembagi);
