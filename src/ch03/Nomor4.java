@@ -6,7 +6,6 @@ public class Nomor4 {
 
 	public static void main(String[] args) {
 		
-		// Menentukan sebuah angka bilangan prima atau tidak 
 		System.out.println("Program Menentukan sebuah angka bilangan prima atau tidak");
 
 		Scanner scan = new Scanner(System.in);

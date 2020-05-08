@@ -6,7 +6,6 @@ public class Nomor3 {
 
 	public static void main(String[] args) {
 		
-		// Menentukan bilangan pembagi terkecil selain angka 1 dan  2
 		System.out.println("Program menentukan bilangan pembagi terkecil selain angka 1 dan 2");
 
 		Scanner Scan = new Scanner(System.in);

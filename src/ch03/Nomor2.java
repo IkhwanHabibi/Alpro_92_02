@@ -6,7 +6,6 @@ public class Nomor2 {
 
 	public static void main(String[] args) {
 		
-		// Menentukan nilai teringgi antara variabel x, y dan z
 		System.out.println("Program menentukan nilai tertinggi antara variabel x, y dan z");
 
 		Scanner scan = new Scanner(System.in);

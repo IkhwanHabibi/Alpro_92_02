@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Nomor1 {
 
 	public static void main(String[] args) {
-		
-		// Menentukan nilai tertinggi antara variabel x dan y
+	
 		System.out.println("Program menentukan nilai tertinggi antara variabel x dan y");
 
 		Scanner scan = new Scanner(System.in);
